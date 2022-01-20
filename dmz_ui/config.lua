@@ -1,7 +1,7 @@
 Config = {}
 
 
-Config.InventoryImage = '...ur inventory .../html/img/items/'
+Config.InventoryImage = '...ur inventory.../html/img/items/'
 
 Config.DisplayDelay = 2 -- delay
 
