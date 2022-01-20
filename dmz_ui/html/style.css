@@ -1,0 +1,68 @@
+html { overflow-x: hidden !important; overflow-y: hidden !important; background-color: transparent !important;}
+
+body {background-color: transparent !important;}
+
+.al-item {
+     font-family:'Kanit', sans-serif;
+     position: fixed;
+     bottom: 200px;
+     width: 80%;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+.card {
+     background-color:rgba(255, 255, 255, 0);
+}
+.card-element{
+     width: 120px;
+     margin-left: 395px;
+}
+.card-body{
+     padding: 5px;
+     color: rgba(255, 255, 255, 0);
+}
+
+.al-item .al-item-header {
+     background: rgba(0, 0, 0, 0);
+     border:none;
+     display: block;
+     height: 90px;
+}
+.al-item .al-item-header .al-item-action {
+     border-left:1px solid #a8a8a891;
+     border-bottom:1px solid #636d69;
+     border-radius:1px 0 1px 0;
+     color:rgba(204, 204, 204, 0.13);
+     min-width: 45px;
+     font-size:11px;
+     padding:3px 8px;
+     position:absolute;
+     left:1;
+     top:0;
+}
+.al-item .al-item-header .add {
+     background:#000000;
+     color:#fff;
+}
+.al-item .al-item-header .remove {
+     background:#000000;
+     color:#fff;
+}
+.al-item .al-item-header .use {
+     background:#000000;
+     color:#fff;
+}
+.al-item .al-item-img{
+     flex-grow: 1;
+}
+.al-item .al-item-header img {
+     width:65px;
+}
+.al-item .al-price-box .al-item-features {
+     background: rgba(173, 181, 189, 0.15);
+     color: #ffffffbf;
+     font-size: 14px;
+}
+
+
